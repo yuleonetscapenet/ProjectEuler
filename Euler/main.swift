@@ -94,6 +94,6 @@ print("Hello, World!")
 let sum = multi35(1000);
 print("sum is \(sum)");
 
-let evenSum = evenFN(4000000);
-print("evenSum is \(evenSum)");
+//let evenSum = evenFN(4000000);
+//print("evenSum is \(evenSum)");
 
