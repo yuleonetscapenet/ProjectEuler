@@ -4,7 +4,7 @@
 //
 //  Created by Leo Yu on 9/27/15.
 //  Copyright © 2015 Leo Yu. All rights reserved.
-//  modifed in main
+//  
 
 import Foundation
 
@@ -94,6 +94,6 @@ print("Hello, World!")
 let sum = multi35(1000);
 print("sum is \(sum)");
 
-//let evenSum = evenFN(4000000);
-//print("evenSum is \(evenSum)");
+let evenSum = evenFN(4000000);
+print("evenSum is \(evenSum)");
 
